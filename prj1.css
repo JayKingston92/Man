@@ -1,0 +1,111 @@
+.a1{
+    padding-left: 50px;
+    position: relative;
+    letter-spacing: .5em;
+    text-transform: uppercase;
+  }
+  .a1::before{
+    content: "";
+    position: absolute;
+    background-color: currentColor;
+    left: 0;
+    top: 50%;
+    height: 1px;
+    width: 20px;
+  }
+  .div1{
+    display: block;
+    font-size: 14px;
+    line-height: 1.71;
+    padding-bottom: 40px;
+  }
+  .image{
+    width: 110px;
+    height: 150px;
+    margin-bottom: 45px;
+    position: relative;
+  
+}
+  .image1{
+    width: 300px;
+    position: absolute;
+    padding-top: 20px;
+    margin-left: -50px;
+  }
+  .form{
+    display: block;
+    padding-bottom: 40px;
+    padding: 39px 0 100px;
+  }
+  .form1{
+    width: 100%;
+    padding-right: 0;
+    margin-bottom: 40px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+  }
+  .div2{
+    font-size: 20px;
+    color: #1b1c1e;
+    line-height: 38px;
+    margin-bottom: 20px;
+  }
+  .input{
+    width: 100%;
+    margin-bottom: 20px;
+    opacity: 1;
+}
+  }
+  .inputaria{
+    width: 100%;
+    margin-bottom: 20px;
+    display: inline-block;
+    vertical-align: top;
+    width: 230px;
+    height: 40px;
+    position: relative;
+}
+  .button{
+    width: 174px;
+    height: 38px;
+    padding-top: 12px;
+    position: absolute;
+    left: 230px;
+    bottom: 15px;
+    z-index: 2;
+    display: inline-block;
+    cursor: pointer;
+    border: 0;
+    background: transparent;
+    border-radius: 0;
+    font-family: Gotham,sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: .66667em;
+    line-height: 1em;
+    letter-spacing: .16667em;
+    padding: 1.58333em 3.33333em;
+    text-transform: uppercase;
+    max-width: 100%;
+    min-width: 200px;
+    background: #fff;
+    color: #000;
+    box-sizing: border-box;
+    border: 2px solid #000;
+    height: 50px;
+    
+  }
+
+  .adress{
+    line-height: 2.29;
+    font-size: 14px;
+    color: #000;
+  }
+  #sec3{
+       height: 300px;
+       font-size: 0.7cm;
+       text-align: center;
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       background-color: rgb(236, 229, 229);
+     }
